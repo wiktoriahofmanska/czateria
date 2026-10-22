@@ -2,7 +2,7 @@
 **Które z następujących problemów można uznać za mieszczące się w zakresie sztucznej inteligencji:**  
 
 - streszczanie tekstu, tak, modele językowe dobrze sobie z tym radzą  
-- tłumaczenie tekstu, tak, systemy NMT sobie dobrze z tym radzą     
+- tłumaczenie tekstu, tak, systemy NMT (neural machine translation) sobie dobrze z tym radzą     
 - klasyfikacja tekstu do kategorii tematycznych, tak, zwykły Chat sobie z tym poradzi   
 - odpowiadanie na proste pytania zadawane w języku naturalnym, tak np. chatgpt, gemini ai, claude ai  
 - rozwiązywanie układów równań, może ai to robić  
