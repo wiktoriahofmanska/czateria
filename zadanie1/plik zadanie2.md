@@ -5,8 +5,8 @@
 - tłumaczenie tekstu, tak,     
 - klasyfikacja tekstu do kategorii tematycznych, tak  
 - odpowiadanie na proste pytania zadawane w języku naturalnym, tak np. chatgpt, gemini ai, claude ai  
-- rozwiązywanie układów równań, tak  
-- układanie rozkładu jazdy, tak   
+- rozwiązywanie układów równań, może ai to robić  
+- układanie rozkładu jazdy, tak ai może szybko zautomatyzować ten proces   
 - rozwiązywanie układów równań liniowych, tak  
 - symboliczne obliczanie pochodnych, tak  
 - symboliczne całkowanie, tak   
